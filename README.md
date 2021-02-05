@@ -1,6 +1,6 @@
 # projeto_perguntas
 
-A new Flutter project.
+Projeto de iniciação em Flutter com sistema de perguntas e pontuação
 
 ## Getting Started
 
